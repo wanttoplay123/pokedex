@@ -12,6 +12,9 @@ La aplicación fue desarrollada en Angular y posteriormente desplegada en la nub
 
 https://app-listrace-web-prod-jdrc-pokedex-adafbhfqcxayddd5.eastus2-01.azurewebsites.net/
 
+<img width="1850" height="932" alt="image" src="https://github.com/user-attachments/assets/287fa80c-9bd4-4099-9be9-132b326956d4" />
+
+
 ---
 
 ## Tecnologías utilizadas
