@@ -55,6 +55,9 @@ AZURE_WEBAPP_PUBLISH_PROFILE
 
 3. Se configuró correctamente el workflow para autenticación y despliegue.
 
+   <img width="1046" height="422" alt="image" src="https://github.com/user-attachments/assets/004ae6e2-ce5c-40e0-9d83-58a74e6ba406" />
+
+
 ---
 
 ## 3. Configuración de CI/CD
