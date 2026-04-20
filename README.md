@@ -30,6 +30,10 @@ https://app-listrace-web-prod-jdrc-pokedex-adafbhfqcxayddd5.eastus2-01.azurewebs
 
 1. Creación de cuenta en Azure for Students.
 2. Creación del recurso App Service.
+
+<img width="1404" height="887" alt="image" src="https://github.com/user-attachments/assets/1d18f823-03f3-4d4b-b336-cb83b4006f0c" />
+
+
 3. Construcción del proyecto Angular para producción.
 4. Subida del código al repositorio en GitHub.
 5. Configuración de despliegue automático con GitHub Actions.
