@@ -61,7 +61,8 @@ A
 
 Se adjunta captura del resultado del escaneo de seguridad realizado en securityheaders.com.
 
-<img width="1834" height="973" alt="image" src="https://github.com/user-attachments/assets/f288e9d6-8841-40cc-89bd-752d801dc4a1" />
+<img width="1802" height="934" alt="image" src="https://github.com/user-attachments/assets/c7c404b9-9adc-4e5b-b368-e370e87c7778" />
+
 
 
 ---
